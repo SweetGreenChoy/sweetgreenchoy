@@ -10,7 +10,7 @@ Learning hard to be a developer. Right now it may seem humble, so prosperous wil
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white"/>
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white"/>
   <img alt="JS" src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
-  <img alt="html" src="https://img.shields.io/badge/html-E34F26?style=plastic&logo=htm5l&logoColor=white"/>
+  <img alt="html" src="https://img.shields.io/badge/html-E34F26?style=plastic&logo=html5&logoColor=white"/>
   <img alt="css" src="https://img.shields.io/badge/css-1572B6?style=plastic&logo=css3&logoColor=white"/>
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white"/>
   <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white"/>
