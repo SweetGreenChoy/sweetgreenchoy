@@ -7,7 +7,7 @@ Learning hard to be a developer. Right now it may seem humble, so prosperous wil
 <h3>Techs</h3>
 <p>
   <details>
-    <summary>ML/DL Skills</summary>
+    <summary><b>ML/DL Skills</b></summary>
       <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
       <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white"/>
       <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white"/>
