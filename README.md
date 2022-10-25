@@ -17,7 +17,7 @@ Learning hard to be a developer. Right now it may seem humble, so prosperous wil
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white"/>
   <img alt="nodejs" src="https://img.shields.io/badge/Node.Js-339933?style=plastic&logo=node.js&logoColor=white"/>
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=aws&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white"/>
 </p>
 <!--
 **SweetGreenChoy/sweetgreenchoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
