@@ -15,8 +15,10 @@ Learning hard to be a developer. Right now it may seem humble, so prosperous wil
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white"/>
   <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white"/>
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white"/>
-  <img alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white"/>
-
+  <img alt="nodejs" src="https://img.shields.io/badge/Node.Js-339933?style=plastic&logo=node.js&logoColor=white"/>
+  <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=aws&logoColor=white"/>
+</p>
 <!--
 **SweetGreenChoy/sweetgreenchoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
