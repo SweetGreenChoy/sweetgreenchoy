@@ -6,13 +6,15 @@ Learning hard to be a developer. Right now it may seem humble, so prosperous wil
 
 <h3>Techs</h3>
 <p>
-  <summary>
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
-    <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white"/>
-    <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white"/>
-    <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
-    <img alt="html" src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white"/>
-    </summary>
+  <details>
+    <summary>
+      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
+      <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white"/>
+      <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white"/>
+      <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
+      <img alt="html" src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white"/>
+      </summary>
+  </details>
   <img alt="css" src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white"/>
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white"/>
   <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white"/>
