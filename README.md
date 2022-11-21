@@ -28,7 +28,7 @@ Learning hard to be a developer. Right now it may seem humble, so prosperous wil
   </p>
 
 <h3>BARR</h3>
-```python
+```py
   **Keywords**: Machine Learning | Cosine Similarity | Recommendation
 ```
     <!--
