@@ -28,9 +28,8 @@ Learning hard to be a developer. Right now it may seem humble, so prosperous wil
   </p>
 
 <h3>BARR</h3>
-```py
   **Keywords**: Machine Learning | Cosine Similarity | Recommendation
-```
+
     <!--
 **SweetGreenChoy/sweetgreenchoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
