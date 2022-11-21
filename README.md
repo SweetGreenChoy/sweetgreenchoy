@@ -27,5 +27,5 @@ Learning hard to be a developer. Right now it may seem humble, so prosperous wil
   <h3>Projects</h3>
   </p>
 
-<h3>BARR</h3>
+<h3><a href="https://fortune-galaxy-319.notion.site/BARR-24404634c2984ef2837fb9263ea9f7b1">BARR</a></h3>
   Keywords: Machine Learning | Cosine Similarity | Recommendation
