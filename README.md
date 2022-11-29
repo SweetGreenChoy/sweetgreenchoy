@@ -29,8 +29,8 @@
 
 # Projects
 
-## ML Basics [Github](https://github.com/SweetGreenChoy/ml_basics)
+## ML Basics ***[Github](https://github.com/SweetGreenChoy/ml_basics)***
 > **Keywords** : Machine Learning | Regression | Classification | Random Tree | 
 
-## BARR [Notion](https://fortune-galaxy-319.notion.site/BARR-24404634c2984ef2837fb9263ea9f7b1)
+## BARR ***[Notion](https://fortune-galaxy-319.notion.site/BARR-24404634c2984ef2837fb9263ea9f7b1)***
 > **Keywords** : Machine Learning | Cosine Similarity | Recommendation
