@@ -1,10 +1,10 @@
 <html>
   <h1 align="left">Hello, Stranger!<img src="https://c.tenor.com/ASryIjFifHMAAAAi/bunny-cute.gif" width="100px"></h1>
 
-  <h3>Thanks to visit my page!</h3>
+  <h3>Thanks for visit!</h3>
   <p>This is Choy, ML/DL junior developer. Fully Korean but fluent English speaker(schooled in NZ<img src="https://cdn-icons-png.flaticon.com/512/197/197589.png" width="20px"> & CA<img src="https://cdn-icons-png.flaticon.com/512/323/323277.png" width=20>).</br>
   Learning hard to be a developer. Right now it may seem humble, so prosperous will my future be.</p>
-
+ 
   <h3>Techs</h3>
     <p>
       <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
