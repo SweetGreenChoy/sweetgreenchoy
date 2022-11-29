@@ -18,7 +18,7 @@
       <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white"/>
       <img alt="nodejs" src="https://img.shields.io/badge/Node.Js-339933?style=plastic&logo=node.js&logoColor=white"/>
       <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
-      <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white"/>
+      <img alt="AWS" src="https://img.shields.io/badge/AWS Cloud-232F3E?style=plastic&logo=amazonaws&logoColor=white"/>
       <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white"/>
       <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white"/>
     </p>
