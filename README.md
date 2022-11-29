@@ -24,10 +24,10 @@
         <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white"/>
         <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white"/>
     </details>
-    <br>
-    <h3>Projects</h3>
     </p>
 </html>
+
+# Projects
 
 ## <a href="https://fortune-galaxy-319.notion.site/BARR-24404634c2984ef2837fb9263ea9f7b1">BARR</a></h3>
 > **Keywords** : Machine Learning | Cosine Similarity | Recommendation
