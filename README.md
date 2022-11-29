@@ -6,6 +6,7 @@
   Learning hard to be a developer. Right now it may seem humble, so prosperous will my future be.</p>
 
   <h3>Techs</h3>
+    <p>
       <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
       <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white"/>
       <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white"/>
@@ -20,6 +21,7 @@
       <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white"/>
       <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white"/>
       <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white"/>
+    </p>
   </p>
 </html>
 
