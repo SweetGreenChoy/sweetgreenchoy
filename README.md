@@ -33,7 +33,9 @@
 > Board game recommendation model
 > **Keywords** : Machine Learning | Cosine Similarity | Recommendation
 
-## TBU
+***
+
+# TBU
 
 ## ML Basics ***[Github](https://github.com/SweetGreenChoy/ml_basics)***
 > ML basic technics with well known datasets
