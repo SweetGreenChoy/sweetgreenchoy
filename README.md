@@ -30,4 +30,4 @@
 </html>
 
 ## <a href="https://fortune-galaxy-319.notion.site/BARR-24404634c2984ef2837fb9263ea9f7b1">BARR</a></h3>
-> Keywords | Machine Learning | Cosine Similarity | Recommendation
+> **Keywords** : Machine Learning | Cosine Similarity | Recommendation
