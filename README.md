@@ -15,6 +15,7 @@
       <img alt="css" src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white"/>
       <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white"/>
       <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white"/>
+      <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"/>#EE4C2C
       <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white"/>
       <img alt="nodejs" src="https://img.shields.io/badge/Node.Js-339933?style=plastic&logo=node.js&logoColor=white"/>
       <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
@@ -36,6 +37,10 @@
 ***
 
 # TBU
+
+## GANs ***[Github](https://github.com/SweetGreenChoy/gan_images)***
+> Understanding various of GAN models
+> **Keywords** : Deep Learning | Image Processing | GAN
 
 ## ML Basics ***[Github](https://github.com/SweetGreenChoy/ml_basics)***
 > ML basic technics with well known datasets
