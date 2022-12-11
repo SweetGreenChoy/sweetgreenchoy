@@ -15,10 +15,11 @@
       <img alt="css" src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white"/>
       <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white"/>
       <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white"/>
-      <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"/>#EE4C2C
+      <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"/>
       <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white"/>
       <img alt="nodejs" src="https://img.shields.io/badge/Node.Js-339933?style=plastic&logo=node.js&logoColor=white"/>
-      <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
+      <img alt="OracleSQL" src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white"/>
       <img alt="AWS" src="https://img.shields.io/badge/AWS Cloud-232F3E?style=plastic&logo=amazonaws&logoColor=white"/>
       <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white"/>
       <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white"/>
