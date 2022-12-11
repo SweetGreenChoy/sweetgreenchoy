@@ -18,6 +18,7 @@
       <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"/>
       <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white"/>
       <img alt="nodejs" src="https://img.shields.io/badge/Node.Js-339933?style=plastic&logo=node.js&logoColor=white"/>
+      <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white"/>
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
       <img alt="OracleSQL" src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white"/>
       <img alt="AWS" src="https://img.shields.io/badge/AWS Cloud-232F3E?style=plastic&logo=amazonaws&logoColor=white"/>
