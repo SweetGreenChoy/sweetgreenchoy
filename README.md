@@ -50,4 +50,4 @@
 
 ## DL Basics ***[Github](https://github.com/SweetGreenChoy/dl_basics)***
 > DL basic technics
-> **Keywords** : Deep Learning | Image Processing |
+> **Keywords** : Deep Learning | Image Processing | Object Detection | Upscaling
