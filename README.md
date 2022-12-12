@@ -40,10 +40,6 @@
 
 # TBU
 
-## GANs ***[Github](https://github.com/SweetGreenChoy/gan_images)***
-> Understanding various of GAN models
-> **Keywords** : Deep Learning | Image Processing | GAN
-
 ## ML Basics ***[Github](https://github.com/SweetGreenChoy/ml_basics)***
 > ML basic technics with well known datasets
 > **Keywords** : Machine Learning | Regression | Classification | Random Tree | Clustering
