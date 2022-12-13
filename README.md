@@ -30,16 +30,6 @@
 
 ***
 
-# Projects
-
-## BARR ***[Notion](https://fortune-galaxy-319.notion.site/BARR-24404634c2984ef2837fb9263ea9f7b1)***
-> Board game recommendation model
-> **Keywords** : Machine Learning | Cosine Similarity | Recommendation
-
-***
-
-# TBU
-
 ## ML Basics ***[Github](https://github.com/SweetGreenChoy/ml_basics)***
 > ML basic technics with well known datasets
 > **Keywords** : Machine Learning | Regression | Classification | Random Tree | Clustering
