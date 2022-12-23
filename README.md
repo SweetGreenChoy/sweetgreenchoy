@@ -31,9 +31,9 @@
 ***
 
 ## ML Basics ***[Github](https://github.com/SweetGreenChoy/ml_basics)***
-> ML basic technics with well known datasets
+> ML basic technics with well known datasets  
 > **Keywords** : Machine Learning | Regression | Classification | Random Tree | Clustering
 
 ## DL Basics ***[Github](https://github.com/SweetGreenChoy/dl_basics)***
-> DL basic technics
+> DL basic technics  
 > **Keywords** : Deep Learning | Image Processing | Object Detection | Upscaling
